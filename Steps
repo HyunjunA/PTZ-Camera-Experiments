@@ -1,0 +1,5 @@
+1. Run FocuserExample.py 
+2. Check whether IRCUT is closed. If IRCUT is 0, it is closed. If it is 1, it is open. It should be closed before running the cron code.
+3. Set zoom and focus.
+4. Check any job is running. If you want to kill any jobs run removeCurrentJobs.py.
+4. If every things are set, run TimedImageCapCron.py.
